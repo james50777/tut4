@@ -1,0 +1,7 @@
+# Maven build files
+target
+*.log
+maven-eclipse.xml
+build.properties
+site-content
+*~
