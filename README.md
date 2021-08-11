@@ -1,1 +1,1 @@
-Maven-t4
+[![Build Status](https://travis-ci.com/james50777/tut4.svg?branch=master)](https://travis-ci.com/james50777/tut4)
